@@ -17,3 +17,5 @@ The foundation of these tests are derived from <a title="Theme Unit Test" href=
 The word "comprehensive" was purposely left off this description. It's not. There will always be something new squarely scenario to test. That's where you come in. <a title="Contact" href="http://wptest.io/contact/">Let us know</a> of a test we're not covering. We'd love to squash it.
 
 Let’s make WordPress testing easier and resilient together.
+
+Let's test out githubsync and see if we can make this work for all of us!!
